@@ -2,8 +2,9 @@
 
 I'm currently a student in a technological course (STI2D). I am passionate about computer science and I have been programming for about 2 years.
 
-- Passionate about cybersecurity (Check [my THM](https://tryhackme.com/p/m1z4ru1337) & [my HTB](https://app.hackthebox.eu/profile/58635) profiles)
-- Currently sleeping... zZz
+ - Currently learning C# and C
+ - Passionate about cybersecurity (Check [my THM](https://tryhackme.com/p/m1z4ru1337) & [my HTB](https://app.hackthebox.eu/profile/58635) profiles)
+ - Currently sleeping... zZz
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ybenabdallah&show_icons=true&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
