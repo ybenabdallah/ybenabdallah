@@ -2,7 +2,7 @@
 
 I'm currently a student in a technological course (STI2D). I am passionate about computer science and I have been programming for about 2 years.
 
-- Passionate about cybersecurity (Tryhackme [my tryhackme](https://tryhackme.com/p/m1z4ru1337) & HTB [my htb](https://app.hackthebox.eu/profile/58635)
+- Passionate about cybersecurity (Check [my THM](https://tryhackme.com/p/m1z4ru1337) & [my HTB](https://app.hackthebox.eu/profile/58635) profiles)
 - Currently sleeping... zZz
 
 
