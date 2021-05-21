@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yaniss !
 
-I'm currently a student in a technological course (STI2D). I am passionate about computer science and I have been programming for about 2 years.
+I'm currently a student in a technological course (STI2D). I am passionate about computer science and I have been programming for about 3 years.
 
  - Currently learning C# and C
  - Passionate about cybersecurity (Check [my THM](https://tryhackme.com/p/m1z4ru1337) & [my HTB](https://app.hackthebox.eu/profile/58635) profiles)
